@@ -1,0 +1,9 @@
+#App{
+  width: 25vw;
+  height: 40vh;
+  background-color: aqua;
+  color: white;
+  border: 2px solid black;
+  margin: auto;
+  margin-top: 30px;
+}
